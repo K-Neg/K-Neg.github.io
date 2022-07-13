@@ -1,6 +1,5 @@
 ## Kim Nehring
-
-Kim Nehring, a great python dev with amazing skills:
+A great python dev with amazing skills:
 
 - Advanced Python knowledge (love = classes + builtins)
 - Python frameworks: Flask, FastAPI, SQLAlchemy, DJango
